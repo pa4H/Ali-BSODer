@@ -1,0 +1,34 @@
+C:\Users\pa4H\Desktop\BSODforALI\BSODforALI\obj\x86\Debug\BSODforALI.Properties.Resources.resources
+C:\Users\pa4H\Desktop\BSODforALI\BSODforALI\obj\x86\Debug\BSODforALI.csproj.GenerateResource.Cache
+C:\Users\pa4H\Desktop\BSODforALI\BSODforALI\bin\Debug\BSODforALI.exe
+C:\Users\pa4H\Desktop\BSODforALI\BSODforALI\bin\Debug\BSODforALI.pdb
+C:\Users\pa4H\Desktop\BSODforALI\BSODforALI\obj\x86\Debug\BSODforALI.Form1.resources
+C:\Users\pa4H\Desktop\BSODforALI\BSODforALI\obj\x86\Debug\BSODforALI.exe
+C:\Users\pa4H\Desktop\BSODforALI\BSODforALI\obj\x86\Debug\BSODforALI.pdb
+E:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\BSODforALI\BSODforALI\obj\x86\Debug\BSODforALI.exe
+E:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\BSODforALI\BSODforALI\obj\x86\Debug\BSODforALI.pdb
+E:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\BSODforALI\BSODforALI\bin\Debug\BSODforALI.exe
+E:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\BSODforALI\BSODforALI\bin\Debug\BSODforALI.pdb
+E:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\BSODforALI\BSODforALI\obj\x86\Debug\BSODforALI.Form1.resources
+E:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\BSODforALI\BSODforALI\obj\x86\Debug\BSODforALI.Properties.Resources.resources
+E:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\BSODforALI\BSODforALI\obj\x86\Debug\BSODforALI.csproj.GenerateResource.Cache
+E:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\BSODforALI — копия\BSODforALI\obj\x86\Debug\BSODforALI.exe
+E:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\BSODforALI — копия\BSODforALI\obj\x86\Debug\BSODforALI.pdb
+F:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\C#\BSODforALI — копия\BSODforALI\obj\x86\Debug\BSODforALI.exe
+F:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\C#\BSODforALI — копия\BSODforALI\obj\x86\Debug\BSODforALI.pdb
+F:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\C#\BSODforALI\BSODforALI\obj\x86\Debug\BSODforALI.Form1.resources
+F:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\C#\BSODforALI\BSODforALI\obj\x86\Debug\BSODforALI.Properties.Resources.resources
+F:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\C#\BSODforALI\BSODforALI\obj\x86\Debug\BSODforALI.csproj.GenerateResource.Cache
+F:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\C#\BSODforALI\BSODforALI\obj\x86\Debug\BSODforALI.csprojResolveAssemblyReference.cache
+F:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\C#\BSODforALI\BSODforALI\bin\Debug\BadNewsForChina.exe
+F:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\C#\BSODforALI\BSODforALI\bin\Debug\BadNewsForChina.pdb
+F:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\C#\BSODforALI\BSODforALI\obj\x86\Debug\BadNewsForChina.exe
+F:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\C#\BSODforALI\BSODforALI\obj\x86\Debug\BadNewsForChina.pdb
+D:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\C#\SHIIIIIIIIIT\BSODforALI\BSODforALI\obj\x86\Debug\BadNewsForChina.exe
+D:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\C#\SHIIIIIIIIIT\BSODforALI\BSODforALI\obj\x86\Debug\BadNewsForChina.pdb
+D:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\C#\SHIIIIIIIIIT\BSODforALI\BSODforALI\bin\Debug\BadNewsForChina.exe
+D:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\C#\SHIIIIIIIIIT\BSODforALI\BSODforALI\bin\Debug\BadNewsForChina.pdb
+D:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\C#\SHIIIIIIIIIT\BSODforALI\BSODforALI\obj\x86\Debug\BSODforALI.csprojResolveAssemblyReference.cache
+D:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\C#\SHIIIIIIIIIT\BSODforALI\BSODforALI\obj\x86\Debug\BSODforALI.Form1.resources
+D:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\C#\SHIIIIIIIIIT\BSODforALI\BSODforALI\obj\x86\Debug\BSODforALI.Properties.Resources.resources
+D:\Pa4h-Customs\TEEEEEEEEEEEEEEEEEEEMP\C#\SHIIIIIIIIIT\BSODforALI\BSODforALI\obj\x86\Debug\BSODforALI.csproj.GenerateResource.Cache
